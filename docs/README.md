@@ -1,13 +1,16 @@
 ## Blue Streak Collaborations with [Bonnie Aumann](https://about.me/bonniea)
 
 ### Wingman
+
+Your second set of eyes, ears, and hands for your bigger than average engagements. My experience and my excellent handwriting are at your service.
+
 ### Stand In
 
-For the times you find yourself with a perfect opportunity to deliver an existing [talk/workshop/training] and only the limits of time and space stand in your way. 
+For the times you find yourself with a perfect opportunity to deliver an existing _[talk/workshop/training]_ and only the limits of time and space stand in your way. 
 
 ### Impartial Facilitator
 
-Sometimes you just need an outsider to guide a difficult conversation or complex exploration.
+Sometimes you just need an outsider to guide a difficult conversation or lead a complex exploration.
 
 ### Tailored Workshops and Remote Training
 
