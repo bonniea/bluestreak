@@ -1,5 +1,4 @@
-# Current Offering
-
+# Current Offerings
 
 ### Tailored Workshops for Making Good Teams Great
 
@@ -11,6 +10,8 @@ Sample Workshops
 - Microskills for Effective Teamwork
 
 In person and remote services available. 
+
+_**Coming Soon: Product Bootcamp**_ - What You Need to Build Before Talking to Developers
 
 ### Impartial Facilitator
 
