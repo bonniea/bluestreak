@@ -1,4 +1,4 @@
-## Blue Streak Collaborations with [Bonnie Aumann](https://about.me/bonniea)
+# Current Offering
 
 ### Wingman
 
@@ -21,8 +21,8 @@ Examples
  - Microskills for Effective Teamwork. 
  - Agile Fluency(tm) Diagnostic Workshops.
 
-## What is BSC?
-A vehicle to devise collaborative missions that shift existing systems to support a more sustainable, beautiful, open world and workplace. 
+## What is BsC?
+A vehicle for [Bonnie Aumann](https://about.me/bonniea) to devise collaborative missions that shift existing systems to support a more sustainable, beautiful, open world and workplace. 
 
 
 ## Get in Touch
