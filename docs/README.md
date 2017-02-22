@@ -11,7 +11,7 @@ Sample Workshops
 
 In person and remote services available. 
 
-_**Coming Soon: Product Bootcamp**_ - What You Need to Build Before Talking to Developers
+_**Coming Soon: Product Bootcamp**_ - What You Need in Your Hands Before Talking to Developers
 
 ### Impartial Facilitator
 
@@ -34,4 +34,5 @@ A vehicle to devise collaborative missions that shift existing systems to suppor
 ## Get in Touch
 - [via Twitter](https://twitter.com/bonniea)
 - [via GitHub](https://github.com/bonniea/bluestreak/issues)
-- For qualifications, experience, and references, please check [LinkedIn](https://linkedin.com/in/bonniea).
+
+For qualifications, experience, and references, please check [LinkedIn](https://linkedin.com/in/bonniea).
