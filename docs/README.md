@@ -1,17 +1,13 @@
 # Current Offerings
 
-### Tailored Workshops for Making Good Teams Great
-
-All that Lean and Agile stuff takes only minutes to learn, and a lifetime to master. 
-Sample Workshops
-- Agile Fluency(tm) Diagnostic Workshop
-- Process Mapping and Kaizen
-- Improving Retrospectives 
+### Tailored Workshops
+- Applying Design Thinking to your Lean/Agile Process
+- Iteration Negative One: Bootcamp for testing product ideas before paying for app development
+- Agile Fluency(tm) Diagnostic Workshop 
 - Microskills for Effective Teamwork
+- Other topic include: Strategy Deployment, Lean/Kanban process mapping, Non-techies in Agile Development, and more.
 
-In person and remote services available. 
-
-_**Coming Soon: Product Bootcamp**_ - What You Need in Your Hands Before Talking to Developers
+In person and remote available. 
 
 ### Impartial Facilitator
 
